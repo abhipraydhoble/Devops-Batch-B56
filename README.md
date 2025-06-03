@@ -15,7 +15,8 @@
 - desktop app (e.g., Microsoft Word)
 
  **Components of Application**
-🔹 1. Frontend (Client Side -> Runs in: Browser)
+ 
+## 🔹 1. Frontend (Client Side -> Runs in: Browser)
 **Technologies:** 
 - HTML
 - CSS
@@ -25,7 +26,7 @@
 
 
 
-🔹 2. Backend (Server Side-> Runs on: Server)
+## 🔹 2. Backend (Server Side-> Runs on: Server)
 - Logic, processing, APIs, handling user requests.
 **Technologies:**
 - Java
@@ -36,7 +37,7 @@
 
 
 
-🔹 3. Database
+## 🔹 3. Database
 - Stores application data.
 
 **Types:**
