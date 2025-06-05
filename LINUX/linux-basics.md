@@ -19,6 +19,37 @@
 ![image](https://github.com/user-attachments/assets/328cfe15-54f4-4dea-a313-801b3eeded64)
 
 
+## 🧩 Different Types of Operating Systems
+
+- **Batch OS** – Executes batches of jobs with minimal or no user interaction.
+- **Time-Sharing OS** – Allows multiple users to share system resources simultaneously.
+- **Distributed OS** – Manages a group of independent computers as a single system.
+- **Embedded OS** – Designed to run on embedded systems like smartwatches or appliances.
+- **Real-Time OS** – Provides immediate response and is used in time-critical environments.
+- **Network OS** – Enables communication and resource sharing across a network.
+- **Mobile OS** – Optimized for mobile devices like smartphones and tablets.
+
+## 🖧 What is a Server?
+
+A **server** is a powerful computer or system that provides data, services, or resources to other computers (clients) over a network. Examples include web servers, file servers, and database servers.
+
+---
+
+## 🖥️ Desktop OS vs Server OS
+
+| Feature             | Desktop OS                          | Server OS                            |
+|---------------------|--------------------------------------|---------------------------------------|
+| **Purpose**         | Designed for personal daily use     | Designed to manage network resources  |
+| **Users**           | Typically one user at a time        | Supports multiple users simultaneously|
+| **Performance**     | Optimized for user interface & apps | Optimized for stability & performance |
+| **Uptime**          | Can afford restarts or downtime     | Requires high uptime (24/7)           |
+| **GUI**             | GUI-focused for easy use            | Often CLI-based for efficiency        |
+| **Examples**        | Windows 10/11, Ubuntu Desktop       | Windows Server, Ubuntu Server, CentOS |
+| **Security**        | Basic security                      | Advanced security and access control  |
+| **Price**           | Usually cheaper                     | Can be more expensive (licensed)      |
+
+
+## Linux Architecture
 
 **Linux architecture has four main components hardware,kernel,shell and user/application**
 
