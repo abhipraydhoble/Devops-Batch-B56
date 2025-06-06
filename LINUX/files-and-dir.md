@@ -13,8 +13,8 @@ touch example.txt
 cat > file2.txt
 ````
 **Note:** 
-- > will override file content   and
-- >> will append (both old data and new will stay in file)
+- '>' will override file content   and
+- '>>' will append (both old data and new will stay in file)
 
 - echo "Hello World" > index.html → Creates a file index.html and writes Hello World into it.
 ````
