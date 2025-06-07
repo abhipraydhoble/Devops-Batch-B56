@@ -65,7 +65,15 @@ A **server** is a powerful computer or system that provides data, services, or r
 
 ![image](https://github.com/user-attachments/assets/af5d4a6e-02e7-4a3e-81fb-fd5d3d4bda98)
 
-
+## Distributions of Linux
+- redhat
+- dabian
+- fedora
+- ubuntu
+- amazon linux
+- kali linux
+- mint
+- suse
 
     
 ---
