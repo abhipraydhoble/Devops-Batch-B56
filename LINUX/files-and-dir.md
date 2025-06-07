@@ -42,7 +42,14 @@ rm -rvf pune
 - v verbose
 - f forcefully
 
+### Copy file to another file and dir
+````
+cp file1.txt  file2.txt
+````
 
+````
+mv demo.txt Documents/
+````
 
 ### Moving a File to Another Directory
 ```sh
