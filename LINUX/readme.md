@@ -202,13 +202,13 @@ du -sh file/dirname
 12. /boot - Files needed to start the computer.
 
 
-13. /home - Personal files for each user.
+13. /home - home dir of local user.
 
 
 14. /opt - Extra programs you install.
 
 
-15. /root - Personal files for the admin.
+15. /root - home dir of root user
 
 
 16. /media - Automatically mounted drives (e.g., USB).
