@@ -35,7 +35,7 @@ In **Command Mode**, you can perform operations like deleting, copying, and past
 
 - G or L  Move cursor to the end of the file
 - gg or H  Move cursor to the beginning of the file
-- 'n'gg  Move cursor to the `n`th line
+- `n`gg  Move cursor to the `n`th line
   
 
 ---
