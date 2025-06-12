@@ -1,3 +1,13 @@
+#  nano editor
+
+### create file with nano editor
+````
+nano example.txt
+````
+
+- to save file press **cntrl + x** then **y** and **enter**
+
+
 # Vi / Vim Editor
 
 Modes of vi/vim editor:
