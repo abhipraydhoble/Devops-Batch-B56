@@ -42,6 +42,10 @@ note: using useradd command home dir is not created
 ````
 sudo useradd <username>
 ````
+use
+````
+usermod -m username
+````
 #### Set or change a user password
 ````
 sudo passwd <username>
