@@ -84,6 +84,18 @@ cat /etc/passwd
 9. Future Use
 - Stores encrypted password hashes and metadata for password policies.
 
+# change pass policy
+
+| `chage -l username` | List current password aging info for the user. |
+| `chage -M 30 username` | Set maximum number of days between password changes to 30 days. |
+| `chage -m 7 username` | Set minimum number of days between password changes to 7 days. |
+| `chage -W 5 username` | Set number of days of warning before password expires (5 days in this case). |
+| `chage -I 10 username` | Set account inactive after 10 days of password expiration. |
+| `chage -E 2025-07-1 username` | Set account expiration date. |
+| `chage -d 0 username` | Force password change on next login. |
+
+
+
 
 #### Modify an Existing User
 
