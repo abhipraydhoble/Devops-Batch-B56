@@ -40,15 +40,15 @@ or
 
 note: using useradd command home dir is not created
 ````
-sudo useradd <username>
+useradd <username>
 ````
 use
 ````
-usermod -m username
+useradd-m username
 ````
 #### Set or change a user password
 ````
-sudo passwd <username>
+passwd <username>
 ````
 
 #### List All Users
