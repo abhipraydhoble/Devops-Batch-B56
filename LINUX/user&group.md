@@ -50,7 +50,10 @@ useradd-m username
 ````
 passwd <username>
 ````
-
+#### Delete User
+````
+userdel -r username
+````
 #### List All Users
 ````
 cat /etc/passwd
