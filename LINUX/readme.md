@@ -1,3 +1,4 @@
+# Linux Basics
 
 ## Operating System:
 - An operating system (OS) is a system software that manages computer hardware and software resources 
