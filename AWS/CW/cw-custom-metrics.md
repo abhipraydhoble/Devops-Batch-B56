@@ -2,7 +2,12 @@
 
  ## Step 1: 
 - Create iam role with cloudwatch full access and ssm full access
-   
+   ````
+   AmazonSSMFullAccess
+   ````
+   ````
+   CloudWatchFullAccess
+   ````
 
 ## Step 2:
 - launch ec2 instance and  attach  role
